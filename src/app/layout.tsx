@@ -2,7 +2,7 @@ import NavBar from './components/NavBar'
 import './globals.css'
 import type { Metadata } from 'next'
 
-export const revalidate = 10
+export const revalidate = 3600
 
 export const metadata: Metadata = {
   title: 'Image-Gallery',
