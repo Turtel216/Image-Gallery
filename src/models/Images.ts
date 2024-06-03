@@ -3,8 +3,8 @@ import { z } from 'zod'
 const BasicImageSchema = z.object({
   page: z.number(),
   per_page: z.number(),
-  prev_age: z.string().optional(),
-  next_age: z.string().optional(),
+  prev_page: z.string().optional(),
+  next_page: z.string().optional(),
   total_results: z.number(),
 })
 
