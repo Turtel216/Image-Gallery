@@ -17,12 +17,12 @@
 
 1. Clone the github repo
 
-    git clone https://github.com/Turtel216/Image-Gallery.git
+        git clone https://github.com/Turtel216/Image-Gallery.git
 
 2. Install the packages
 
-    npm install 
+        npm install 
 
 3. Run the app 
 
-    npm run dev
+        npm run dev
