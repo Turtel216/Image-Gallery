@@ -6,12 +6,12 @@
 
 ## Tech Stack
 
-    - Typescript
-    - NodeJS
-    - NextJS
-    - ReactJS
-    - Zed
-    - Tailwindcss
+- Typescript
+- NodeJS
+- NextJS
+- ReactJS
+- Zed
+- Tailwindcss
 
 ## Running the app
 
